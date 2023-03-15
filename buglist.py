@@ -4,7 +4,9 @@ import requests
 from bs4 import BeautifulSoup
 
 supportDict = { 
-    '2022.1': 7,
+    '2022.3': 5,
+    '2022.2': 7,
+    '2022.1': 10,
     '2021.4': 11,
     '2021.3': 16,
     '2021.2': 17,
